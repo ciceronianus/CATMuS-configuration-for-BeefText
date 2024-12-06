@@ -17,3 +17,5 @@ Basic idea:
 File -> Preferences -> Combos: Set `Combo triggering` to `Automatic` and check `Trigger only after spacebar is pressed`.
 
 
+# Use
+Write string of characters and press `spacebar`. 
