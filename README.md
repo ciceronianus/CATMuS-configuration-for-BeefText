@@ -9,6 +9,7 @@ Basic idea:
 
  
 # How to install? 
+0. Recommended: Download [Junicode](https://sourceforge.net/projects/junicode/files/junicode/junicode-1.002/) font
 1. Download `CATMuS-beeftext.json`
 2. Select: Combos -> Import and import the json file.
 
